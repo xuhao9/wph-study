@@ -1,0 +1,14 @@
+{
+    "/api/user": {
+        "status": 200,
+        "body": {
+            "name": "xh"
+        }
+    },
+    "/api/about": {
+        "status": 200,
+        "body": {
+            "name": "about"
+        }
+    }
+}
