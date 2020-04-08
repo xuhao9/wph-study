@@ -1,0 +1,32 @@
+{
+  "name": "wph-cli",
+  "version": "1.0.3",
+  "description": "落地页脚手架生成工具",
+  "main": "index.js",
+  "bin": {
+    "wph-cli": "./bin/wph.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xuhao9/wph-cli.git"
+  },
+  "author": "xh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xuhao9/wph-cli/issues"
+  },
+  "homepage": "https://github.com/xuhao9/wph-cli#readme",
+  "dependencies": {
+    "chalk": "^4.0.0",
+    "clear": "^0.1.0",
+    "commander": "^5.0.0",
+    "download-git-repo": "^3.0.2",
+    "figlet": "^1.3.0",
+    "handlebars": "^4.7.6",
+    "open": "^7.0.3",
+    "ora": "^4.0.3"
+  }
+}
